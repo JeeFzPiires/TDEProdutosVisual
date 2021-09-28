@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0SpOS1c12Hf8aCGu6MO6bxHNs6QMl8jdNxUuerras8McTZOi5Y9kxgoxWdeeOOOfP4nNfQfeHUKTS7T4dqpUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ins-Ti\\OneDrive - Instale Tecnologia Ltda\\Documentos\\Visual Studio 2019\\TDEProdutosVisual-master\\TDEProdutos\\TDEProdutos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
