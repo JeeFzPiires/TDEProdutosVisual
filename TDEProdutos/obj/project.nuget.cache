@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mVgDncobGtzRQ7xiYYSukLwgLuOWh6qeJJIQPly0KmrsNZ73WYNrelYrVrD7GObKE1sUydv/lIHiJFDlgeexVw==",
+  "dgSpecHash": "cJWYx+Pi24AC9rdhgqFnzzacJ48GfYQBt5ud0+OsA0KJwmKxwahPteoOdB7ssraM34dFEtMbwxiwkBhapZ+N2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\040690\\Documents\\Visual Studio 2019\\TDEProdutos\\TDEProdutos\\TDEProdutos.csproj",
+  "projectFilePath": "C:\\Users\\Ins-Ti\\Source\\Repos\\JeeFzPiires\\TDEProdutosVisual\\TDEProdutos\\TDEProdutos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\040690\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
-    "C:\\Users\\040690\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
-    "C:\\Users\\040690\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
-    "C:\\Users\\040690\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\Ins-Ti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }

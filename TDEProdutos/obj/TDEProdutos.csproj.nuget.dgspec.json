@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\040690\\Documents\\Visual Studio 2019\\TDEProdutos\\TDEProdutos\\TDEProdutos.csproj": {}
+    "C:\\Users\\Ins-Ti\\Source\\Repos\\JeeFzPiires\\TDEProdutosVisual\\TDEProdutos\\TDEProdutos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\040690\\Documents\\Visual Studio 2019\\TDEProdutos\\TDEProdutos\\TDEProdutos.csproj": {
+    "C:\\Users\\Ins-Ti\\Source\\Repos\\JeeFzPiires\\TDEProdutosVisual\\TDEProdutos\\TDEProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\040690\\Documents\\Visual Studio 2019\\TDEProdutos\\TDEProdutos\\TDEProdutos.csproj",
+        "projectUniqueName": "C:\\Users\\Ins-Ti\\Source\\Repos\\JeeFzPiires\\TDEProdutosVisual\\TDEProdutos\\TDEProdutos.csproj",
         "projectName": "TDEProdutos",
-        "projectPath": "C:\\Users\\040690\\Documents\\Visual Studio 2019\\TDEProdutos\\TDEProdutos\\TDEProdutos.csproj",
-        "packagesPath": "C:\\Users\\040690\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\040690\\Documents\\Visual Studio 2019\\TDEProdutos\\TDEProdutos\\obj\\",
+        "projectPath": "C:\\Users\\Ins-Ti\\Source\\Repos\\JeeFzPiires\\TDEProdutosVisual\\TDEProdutos\\TDEProdutos.csproj",
+        "packagesPath": "C:\\Users\\Ins-Ti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ins-Ti\\Source\\Repos\\JeeFzPiires\\TDEProdutosVisual\\TDEProdutos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\040690\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ins-Ti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

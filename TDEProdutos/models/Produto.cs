@@ -33,6 +33,10 @@ namespace TDEProdutos.models
 
         public bool Ativo { get; set; }
 
+        public int EstoqueAtual { get; set; }
+
+        public int EstoqueMinimo { get; set; }
+
 
     }
 }

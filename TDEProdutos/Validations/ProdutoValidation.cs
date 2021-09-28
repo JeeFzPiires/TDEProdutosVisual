@@ -18,6 +18,7 @@ namespace TDEProdutos.Validations
                .NotEmpty().WithMessage("Campo codigo vazio,tente novamente ")
                .NotNull().WithMessage("Campo codigo não informado, tente novamente !")
                .Must(SomenteNumero).WithMessage("codigo invalido");
+               
 
 
             RuleFor(Produto => Produto.Nome)
@@ -43,6 +44,7 @@ namespace TDEProdutos.Validations
             RuleFor(Produto => Produto.Descricao)
                 .NotEmpty().WithMessage("campo descrição vazio")
                 .NotNull().WithMessage("campo descrição não informado");
+
 
                
 

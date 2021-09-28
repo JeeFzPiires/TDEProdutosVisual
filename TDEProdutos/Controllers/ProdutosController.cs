@@ -69,7 +69,9 @@ namespace TDEProdutos.Controllers
                 LarguraCentimetros = 4,
                 ProfundidadeCentimetros = 4,
                 //Categoria = "Bolachas",
-                Ativo = true
+                Ativo = true,
+                EstoqueAtual = 100,
+                EstoqueMinimo = 20
 
             });
 
@@ -122,6 +124,7 @@ namespace TDEProdutos.Controllers
             var r = ListaProdutos.Where(p => p.Codigo == Produto.Codigo).FirstOrDefault();
             if (r != null)
                 return BadRequest("Produto nao foi cadastrado, pois codigo ja existe");
+
             r = ListaProdutos.Where(p => p.Nome == Produto.Nome).FirstOrDefault();
             if (r != null)
                 return BadRequest("Produto nao foi cadastrado, pois nome ja existe");
@@ -148,6 +151,14 @@ namespace TDEProdutos.Controllers
             ListaProdutos.Remove(resultado);
             ListaProdutos.Add(Produto);
 
+            var r = ListaProdutos.Where(p => p.Codigo == Produto.Codigo).FirstOrDefault();
+            if (r != null)
+                return BadRequest("Produto nao foi cadastrado, pois codigo ja existe");
+
+            r = ListaProdutos.Where(p => p.Nome == Produto.Nome).FirstOrDefault();
+            if (r != null)
+                return BadRequest("Produto nao foi cadastrado, pois nome ja existe");
+
             return NoContent();
 
         }
@@ -164,6 +175,23 @@ namespace TDEProdutos.Controllers
             return NoContent();
         }
 
+
+        [HttpPut("Desativar/{Codigo}")] //Enviar e-mail
+        public ActionResult Desativar(bool Ativo, [FromBody] Produto Produto)
+        {
+            var resultado = ListaProdutos.Where(P => P.Ativo == Ativo).FirstOrDefault();
+            if (resultado == null)
+            {
+                return Ok();
+            }
+            Produto.Ativo = Ativo;
+
+            
+           
+
+            return NoContent();
+
+        }
 
 
     }
