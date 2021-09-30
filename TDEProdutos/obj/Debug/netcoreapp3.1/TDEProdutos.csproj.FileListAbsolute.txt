@@ -76,3 +76,29 @@ C:\Users\040690\Documents\Visual Studio 2019\TDEProdutos\TDEProdutos\obj\Debug\n
 C:\Users\040690\Documents\Visual Studio 2019\TDEProdutos\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.dll
 C:\Users\040690\Documents\Visual Studio 2019\TDEProdutos\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.pdb
 C:\Users\040690\Documents\Visual Studio 2019\TDEProdutos\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.genruntimeconfig.cache
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\TDEProdutos.exe
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\TDEProdutos.deps.json
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\TDEProdutos.runtimeconfig.json
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\TDEProdutos.runtimeconfig.dev.json
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\TDEProdutos.dll
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\TDEProdutos.pdb
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.csproj.AssemblyReference.cache
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.AssemblyInfoInputs.cache
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.AssemblyInfo.cs
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\staticwebassets\TDEProdutos.StaticWebAssets.Manifest.cache
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\staticwebassets\TDEProdutos.StaticWebAssets.xml
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\scopedcss\bundle\TDEProdutos.styles.css
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.RazorTargetAssemblyInfo.cache
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.csproj.CopyComplete
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.dll
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.pdb
+C:\Users\Ins-Ti\OneDrive - Instale Tecnologia Ltda\Documentos\Visual Studio 2019\TDEProdutosVisual-master\TDEProdutos\obj\Debug\netcoreapp3.1\TDEProdutos.genruntimeconfig.cache

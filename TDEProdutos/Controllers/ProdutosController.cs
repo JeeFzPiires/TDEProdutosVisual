@@ -34,7 +34,7 @@ namespace TDEProdutos.Controllers
                 AlturaCentimetros = 19,
                 LarguraCentimetros = 4,
                 ProfundidadeCentimetros = 4,
-                //Categoria =
+                CategoriaProdutos = "Bolachas",
                 Ativo = true
 
             });
@@ -51,7 +51,7 @@ namespace TDEProdutos.Controllers
                 AlturaCentimetros = 19,
                 LarguraCentimetros = 4,
                 ProfundidadeCentimetros = 4,
-                //Categoria = "Bolachas",
+                CategoriaProdutos = "Bolachas",
                 Ativo = true
 
             });
@@ -68,7 +68,7 @@ namespace TDEProdutos.Controllers
                 AlturaCentimetros = 19,
                 LarguraCentimetros = 4,
                 ProfundidadeCentimetros = 4,
-                //Categoria = "Bolachas",
+                CategoriaProdutos = "Bolachas",
                 Ativo = true
 
             });
@@ -164,16 +164,35 @@ namespace TDEProdutos.Controllers
             return NoContent();
         }
 
-        [HttpPut("Desativa/{Codigo}")]
-        public ActionResult Desativar(bool Ativo, [FromBody] Produto Produto)
+        [HttpPut("Desativar/{Codigo}")]
+
+        public ActionResult Desativar(string Codigo)
         {
-            var resultado = ListaProdutos.Where(P => P.Ativo == Ativo).FirstOrDefault();
-            if (resultado == null)
+            var produtoDesativado = ListaProdutos.Where(P => P.Codigo == Codigo).FirstOrDefault();
+            if (produtoDesativado == null) return NotFound("Produto não pode ser desativado, pois codigo não existe");
+            if (produtoDesativado != null && produtoDesativado.Ativo == false) return BadRequest("Produto já está desativado, operação não realizada");
+            produtoDesativado.Ativo = false;
+
+            using (System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient())
             {
-                return NotFound();
+                smtp.Host = "smtp.gmail.com";
+                smtp.Port = 587;
+                smtp.EnableSsl = true;
+                smtp.UseDefaultCredentials = false;
+                smtp.Credentials = new System.Net.NetworkCredential("departamentocompras@supermecados.com", "compras123");
             }
-            return NoContent();
-            
+
+            using (System.Net.Mail.MailMessage mail = new System.Net.Mail.MailMessage())
+            {
+                mail.From = new System.Net.Mail.MailAddress("departamentocompras@supermecados.com");
+                mail.To.Add(new System.Net.Mail.MailAddress("departamentocompras@supermecados.com"));
+
+
+                mail.Subject = "Produto Desativado";
+                mail.Body = "Olá, atenção. O produto " + Codigo + " foi desativado do seu catalogo!";
+            }
+
+            return Ok("Prduto desativo");
 
         }
 

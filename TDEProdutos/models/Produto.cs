@@ -29,6 +29,8 @@ namespace TDEProdutos.models
 
         public Categoria Categoria { get; set; }
 
+        public string CategoriaProdutos { get; set; }
+
         public int IDCategoria { get; set; }
 
         public bool Ativo { get; set; }
